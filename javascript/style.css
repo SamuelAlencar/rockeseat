@@ -1,0 +1,9 @@
+#ex1{
+    display: block;
+}
+#ex1 .box{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
